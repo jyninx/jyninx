@@ -2,11 +2,8 @@
   
 # ¡Hola, soy Jyninx! 👋
 
-</div>
-<br>
 
-<div align="center>
- Aprendiendo el manejo de tecnologías frontend y backend
+## Aprendiendo el manejo de tecnologías frontend y backend
 </div>
   
 <br>
