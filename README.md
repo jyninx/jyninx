@@ -4,12 +4,11 @@
 
 ### Aprendiendo el manejo de tecnologías frontend y backend
 
-
-
 </div>
+<br>
 
 ## 🛠️ Tecnologías
-
+<br>
 <div align="center">
 
 **Frontend**
