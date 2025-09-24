@@ -1,10 +1,10 @@
 <div align="center">
   
 # ¡Hola, soy Jyninx! 👋
+</div>
 <br>
-<br>
+<div>
 ### Aprendiendo el manejo de tecnologías frontend y backend
-
 </div>
 <br>
 
