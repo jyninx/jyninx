@@ -4,7 +4,7 @@
 
 ### Aprendiendo el manejo de tecnologías frontend y backend
 
-
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding">
 
 </div>
 
@@ -32,9 +32,7 @@
 
 <div align="center">
 
-## 📊 Mis estadísticas
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyninx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 ![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=Jyninx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
