@@ -1,27 +1,55 @@
-# Hola, soy Jyninx 👋
+<div align="center">
+  
+# ¡Hola, soy Jyninx! 👋
 
-Aprendiendo el manejo de tecnologías frontend y backend.
+### Aprendiendo el manejo de tecnologías frontend y backend
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding">
+
+</div>
 
 ## 🛠️ Tecnologías
 
-**Frontend:**
-- HTML5, CSS3
-- JavaScript
+<div align="center">
 
-**Backend:**
-- PHP
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-**Base de datos:**
-- MySQL
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
+**Base de datos**
+<br>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=default&hide_border=true)
-
-## 📫 Contacto
-
-- 📧 Email: (jyninxxx@gmail.com) (jyninxxx@gmail.com)
-
+</div>
 
 ---
 
+<div align="center">
 
+## 📊 Mis estadísticas
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Jyninx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=Jyninx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Contacto
+
+📧 **Email:** [jyninxxx@gmail.com](mailto:jyninxxx@gmail.com)
+
+<br>
+
+*"En constante aprendizaje 🚀"*
+
+</div>
